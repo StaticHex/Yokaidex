@@ -17,7 +17,7 @@ import android.content.*;
 public class MainActivity extends AppCompatActivity {
 
     // Maps to hold yokai data and food data after being read in from XML
-    private Map<String, String> yokai;
+    private Map<String, String> yokai; // Need to update!!!! NAME, CLASS, RANK, FOOD
     private Map<String, String> foodList;
     private Map<String, String> foodBest;
 
@@ -50,7 +50,12 @@ public class MainActivity extends AppCompatActivity {
         final TextView resultBest = (TextView)findViewById(R.id.txtBest);
         final Button search = (Button)findViewById(R.id.btnSearch);
 
-        String reader = null;
+        String reader = null; // temp variable to hold line read in from file for parsing
+
+        // Read in yokai.dat and populate yokai map with it
+        // NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE /////
+        // New format, need to update NAME, CLASS, RANK, FOOD
+        // NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE /////
         try {
             reader = yokaiIn.readLine();
             while(reader != null) {
@@ -62,6 +67,8 @@ public class MainActivity extends AppCompatActivity {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        // Read in food.dat and populate foodList and foodBest maps with it
         try {
             reader = foodIn.readLine();
             while(reader != null) {

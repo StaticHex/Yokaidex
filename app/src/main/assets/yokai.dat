@@ -9,17 +9,17 @@ Armsman|Vegetables
 Auntie Heart|Vegetables
 Awevil|Meat
 Azure Dragon|Chinese Food
-B3-NK1|Chinese Food
+B3-NK1|Brave|B|Chinese Food
 Babblong|Candy
 Baddinyan|Seafood
 Badude|Ramen
 Baku|Juice
 Bananose|Candy
 Beelzbold|Ramen
-Beetall|Vegetables
-Beetler|Vegetables
+Beetall|Brave|S|Vegetables
+Beetler|Brave|B|Vegetables
 Belfree|Meat
-Benkei|Chinese Food
+Benkei|Brave|B|Chinese Food
 Betterfly|Juice
 Blandon|Rice Ball
 Blazion|Meat
@@ -37,7 +37,7 @@ Castelius III|Milk
 Castelius II|Milk
 Castelius I|Milk
 Castelius Max|Milk
-Chansin|Seafood
+Chansin|Brave|C|Seafood
 Chatalie|Bread
 Cheeksqueek|Milk
 Chilhuahua|Ramen
@@ -51,10 +51,10 @@ Corptain|Vegetables
 Coughkoff|Bread
 Count Cavity|Ramen
 Croonger|Meat
-Cruncha|Vegetables
+Cruncha|Brave|S|Vegetables
 Cupistol|Bread
-Cutta-nah|Juice
-Cutta-nah-nah|Juice
+Cutta-nah|Brave|E|Juice
+Cutta-nah-nah|Brave|C|Juice
 Cuttincheez|Milk
 Cynake|Seafood
 D'wanna|Hamburger
@@ -88,7 +88,7 @@ Flumpy|Bread
 Frostail|Seafood
 Frostina|Candy
 Gilgaros|Meat
-Gleam|Seafood
+Gleam|Brave|S|Seafood
 Goldenyan|Seafood
 Goruma|Bread
 Grainpa|Rice Ball
@@ -98,7 +98,7 @@ Grumples|Milk
 Gush|Juice
 Happierre|Bread
 Heheheel|Meat
-Helmsman|Vegetables
+Helmsman|Brave|D|Vegetables
 Hidabat|Meat
 Hornaplenty|Vegetables
 Hungorge|Rice Ball
@@ -114,7 +114,7 @@ Emenyan|Seafood
 Rubinyan|Seafood
 Topanyan|Seafood
 Dianyan|Seafood
-Kapunki|Rice Ball
+Kapunki|Brave|A|Rice Ball
 Komajiro|Milk
 Komane|Milk
 Komasan|Milk
@@ -130,10 +130,10 @@ Lodo|Milk
 Mad Mountain|Rice Ball
 Mama Aura|Vegetables
 Manjimutt|Chinese Food
-Minochi|Rice Ball
+Minochi|Brave|D|Rice Ball
 Mirapo|Chinese Food
 Mircle|Chinese Food
-Mochismo|Rice Ball
+Mochismo|Brave|D|Rice Ball
 Moskevil|Juice
 Multimutt|Chinese Food
 Mynimo|Candy
@@ -149,7 +149,7 @@ Nul|Rice Ball
 Ol' Fortune|Milk
 Ol' Saint Trick|Milk
 Pandanoko|Hamburger
-Pandle|Rice Ball
+Pandle|Brave|E|Rice Ball
 Papa Bolt|Meat
 Payn|Candy
 Peckpocket|Hamburger
@@ -158,7 +158,7 @@ Pinkipoo|Hamburger
 Pookivil|Hamburger
 Pupsicle|Ramen
 Q'wit|Hamburger
-Quaken|Meat
+Quaken|Brave|B|Meat
 Rageon|Meat
 Rattelle|Hamburger
 Reuknight|Vegetables
@@ -174,7 +174,7 @@ Roughraff|Ramen
 Sandi|Candy
 Scritchy|Juice
 Shadow Venoct|Seafood
-Sheen|Seafood
+Sheen|Brave|A|Seafood
 Shmoopie|Hamburger
 Shogunyan|Seafood
 Shrook|Vegetables
@@ -182,25 +182,25 @@ Signibble|Rice Ball
 Signiton|Rice Ball
 Singcada|Juice
 Sir Berus|Chinese Food
-Siro|Meat
+Siro|Brave|A|Meat
 Skelebella|Hamburger
 Skranny|Ramen
 Skreek|Bread
-Slacka-slash|Juice
+Slacka-slash|Brave|B|Juice
 Slitheref|Seafood
 Slush|Juice
-Snartle|Meat
-Snee|Seafood
+Snartle|Brave|S|Meat
+Snee|Brave|A|Seafood
 Snotsolong|Seafood
 Spenp|Bread
 Statiking|Rice Ball
 Steppa|Ramen
 Supyo|Vegetables
-Sushiyama|Rice Ball
+Sushiyama|Brave|B|Rice Ball
 Suspicioni|Chinese Food
 Swelterrier|Ramen
 Swosh|Vegetables
-Tanbo|Rice Ball
+Tanbo|Brave|B|Rice Ball
 Tantroni|Chinese Food
 Tattlecast|Ramen
 Tattletell|Ramen
@@ -211,7 +211,7 @@ Timidevil|Ramen
 Touphant|Rice Ball
 Tunatic|Meat
 Uncle Infinite|Meat
-Undy|Rice Ball
+Undy|Brave|C|Rice Ball
 Urnaconda|Meat
 Venoct|Seafood
 Walkappa|Vegetables
@@ -220,4 +220,4 @@ Wantston|Ramen
 Wazzat|Candy
 Whapir|Juice
 Wiglin|Ramen
-Zerberker|Meat
+Zerberker|Brave|A|Meat

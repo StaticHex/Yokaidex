@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/YoKaiDex.iml" filepath="$PROJECT_DIR$/YoKaiDex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yokaidex.iml" filepath="$PROJECT_DIR$/Yokaidex.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

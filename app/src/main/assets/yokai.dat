@@ -1,223 +1,223 @@
-Abodabat|Meat
-Agon|Candy
-Ake|Candy
-Alhail|Juice
-Alloo|Chinese Food
-Almi|Bread
-Appak|Vegetables
-Armsman|Vegetables
-Auntie Heart|Vegetables
-Awevil|Meat
-Azure Dragon|Chinese Food
-B3-NK1|Brave|B|Chinese Food
-Babblong|Candy
-Baddinyan|Seafood
-Badude|Ramen
-Baku|Juice
-Bananose|Candy
-Beelzbold|Ramen
-Beetall|Brave|S|Vegetables
-Beetler|Brave|B|Vegetables
-Belfree|Meat
-Benkei|Brave|B|Chinese Food
-Betterfly|Juice
-Blandon|Rice Ball
-Blazion|Meat
-Blips|Hamburger
-Blizzaria|Candy
-Bloominoko|Hamburger
-Blowkade|Milk
-Bruff|Ramen
-Buhu|Bread
-Cadable|Juice
-Cadin|Juice
-Casanono|Bread
-Casanuva|Bread
-Castelius III|Milk
-Castelius II|Milk
-Castelius I|Milk
-Castelius Max|Milk
-Chansin|Brave|C|Seafood
-Chatalie|Bread
-Cheeksqueek|Milk
-Chilhuahua|Ramen
-Chippa|Milk
-Chummer|Vegetables
-Compunzer|Chinese Food
-Confuze|Candy
-Contrarioni|Chinese Food
-Copperled|Seafood
-Corptain|Vegetables
-Coughkoff|Bread
-Count Cavity|Ramen
-Croonger|Meat
-Cruncha|Brave|S|Vegetables
-Cupistol|Bread
-Cutta-nah|Brave|E|Juice
-Cutta-nah-nah|Brave|C|Juice
-Cuttincheez|Milk
-Cynake|Seafood
-D'wanna|Hamburger
-Daiz|Candy
-Damona|Candy
-Dandoodle|Chinese Food
-Darumacho|Bread
-Dazzabel|Hamburger
-Dimmy|Rice Ball
-Dismarelda|Bread
-Draggie|Chinese Food
-Dragon Lord|Chinese Food
-Drizzle|Juice
-Dromp|Vegetables
-Droplette|Juice
-Dubbles|Candy
-Duchoo|Seafood
-Dulluma|Bread
-Dummkap|Candy
-Elder Bloom|Rice Ball
-Elloo|Chinese Food
-Enefly|Juice
-Enerfly|Juice
-Espy|Vegetables
-Eterna|Milk
-Everfore|Milk
-Fidgephant|Rice Ball
-Fishpicable|Meat
-Flengu|Candy
-Flumpy|Bread
-Frostail|Seafood
-Frostina|Candy
-Gilgaros|Meat
+Abodabat|Shady|A|Wind|---|Meat
+Agon|Shady|B|Earth|---|Candy
+Ake|Shady|E|Earth|+Buff Weight > Payn|Candy
+Alhail|Eerie|B|Ice|---|Juice
+Alloo|Mysterious|B|Thunder|---|Chinese Food
+Almi|Slippery|B|Water|---|Bread
+Appak|Charming|A|Water|---|Vegetables
+Armsman|Tough|D|Ice|---|Vegetables
+Auntie Heart|Heartful|S|Restoration|---|Vegetables
+Awevil|Shady|S|Water|---|Meat
+Azure Dragon|Slippery|S|Water|---|Chinese Food
+B3-NK1|Brave|B|Thunder|---|Chinese Food
+Babblong|Slippery|C|Restoration|---|Candy
+Baddinyan|Charming|B|Fire|---|Seafood
+Badude|Tough|B|Earth|---|Ramen
+Baku|Charming|D|Absorption|---|Juice
+Bananose|Slippery|A|Water|---|Candy
+Beelzbold|Shady|S|Fire|---|Ramen
+Beetall|Brave|S|Ice|---|Vegetables
+Beetler|Brave|B|Earth|+General's Soul > Beetall|Vegetables
+Belfree|Shady|A|Wind|---|Meat
+Benkei|Brave|B|Ice|---|Chinese Food
+Betterfly|Heartful|A|Restoration|---|Juice
+Blandon|Shady|B|Wind|---|Rice Ball
+Blazion|Brave|D|Fire|---|Meat
+Blips|Mysterious|C|Absorption|---|Hamburger
+Blizzaria|Charming|S|Ice|---|Candy
+Bloominoko|Slippery|A|Earth|---|Hamburger
+Blowkade|Tough|D|Water|---|Milk
+Bruff|Tough|A|Earth|---|Ramen
+Buhu|Eerie|E|Wind|---|Bread
+Cadable|Charming|C|Wind|---|Juice
+Cadin|Charming|E|Wind|Lv. 21 > Cadable|Juice
+Casanono|Mysterious|A|Fire|---|Bread
+Casanuva|Mysterious|A|Wind|---|Bread
+Castelius III|Tough|C|Earth|+Castelius III > Castelius II|Milk
+Castelius II|Tough|B|Ice|+Castelius II > Castelius I|Milk
+Castelius I|Tough|A|Thunder|+Platinum Bar > Castelius Max|Milk
+Castelius Max|Tough|S|Wind|---|Milk
+Chansin|Brave|C|Fire|+Legendary Blade > Sheen,+Cursed Blade > Snee,+Holy Blade > Gleam|Seafood
+Chatalie|Eerie|D|Thunder|---|Bread
+Cheeksqueek|Eerie|C|Ice|---|Milk
+Chilhuahua|Charming|A|Ice|---|Ramen
+Chippa|Heartful|C|Water|---|Milk
+Chummer|Slippery|C|Water|---|Vegetables
+Compunzer|Eerie|A|Absorption|---|Chinese Food
+Confuze|Slippery|B|Absorption|---|Candy
+Contrarioni|Shady|B|Thunder|---|Chinese Food
+Copperled|Slippery|B|Fire|---|Seafood
+Corptain|Brave|S|Absorption|---|Vegetables
+Coughkoff|Eerie|E|Water|---|Bread
+Count Cavity|Shady|S|Fire|---|Ramen
+Croonger|Slippery|C|Absorption|---|Meat
+Cruncha|Brave|S|Ice|---|Vegetables
+Cupistol|Mysterious|D|Wind|+Lovebuster > Casanuva|Bread
+Cutta-nah|Brave|E|Wind|Lv. 20 > Cutta-nah-nah|Juice
+Cutta-nah-nah|Brave|C|Wind|---|Juice
+Cuttincheez|Eerie|A|Ice|---|Milk
+Cynake|Slippery|B|Water|---|Seafood
+D'wanna|Mysterious|E|Hamburger
+Daiz|Slippery|C|Candy
+Damona|Charming|S|Candy
+Dandoodle|Eerie|S|Chinese Food
+Darumacho|Tough|B|Bread
+Dazzabel|Charming|E|Hamburger
+Dimmy|Shady|E|Rice Ball
+Dismarelda|Eerie|D|Bread
+Draggie|Slippery|D|Chinese Food
+Dragon Lord|Slippery|S|Chinese Food
+Drizzle|Eerie|B|Juice
+Dromp|Tough|A|Vegetables
+Droplette|Eerie|E|Juice
+Dubbles|Heartful|A|Candy
+Duchoo|Mysterious|D|Seafood
+Dulluma|Tough|E|Bread
+Dummkap|Mysterious|E|Candy
+Elder Bloom|Heartful|S|Rice Ball
+Elloo|Mysterious|C|Chinese Food
+Enefly|Heartful|D|Juice
+Enerfly|Heartful|D|Juice
+Espy|Mysterious|B|Vegetables
+Eterna|Eerie|S|Milk
+Everfore|Eerie|S|Milk
+Fidgephant|Tough|D|Rice Ball
+Fishpicable|Slippery|D|Meat
+Flengu|Mysterious|S|Candy
+Flumpy|Eerie|C|Bread
+Frostail|Mysterious|S|Seafood
+Frostina|Charming|B|Candy
+Gilgaros|Tough|S|Meat
 Gleam|Brave|S|Seafood
-Goldenyan|Seafood
-Goruma|Bread
-Grainpa|Rice Ball
-Greesel|Meat
-Grubsnitch|Ramen
-Grumples|Milk
-Gush|Juice
-Happierre|Bread
-Heheheel|Meat
+Goldenyan|Tough|S|Seafood
+Goruma|Tough|B|Bread
+Grainpa|Heartful|B|Rice Ball
+Greesel|Shady|S|Meat
+Grubsnitch|Heartful|D|Ramen
+Grumples|Eerie|B|Milk
+Gush|Eerie|D|Juice
+Happierre|Heartful|C|Bread
+Heheheel|Slippery|D|Meat
 Helmsman|Brave|D|Vegetables
-Hidabat|Meat
-Hornaplenty|Vegetables
-Hungorge|Rice Ball
-Hungramps|Rice Ball
-Hurchin|Bread
-Illoo|Chinese Food
-Impass|Ramen
-Infour|Vegetables
-Insomni|Candy
-Jibanyan|Seafood
-Sapphinyan|Seafood
-Emenyan|Seafood
-Rubinyan|Seafood
-Topanyan|Seafood
-Dianyan|Seafood
+Hidabat|Shady|D|Meat
+Hornaplenty|Tough|S|Vegetables
+Hungorge|Heartful|B|Rice Ball
+Hungramps|Heartful|E|Rice Ball
+Hurchin|Eerie|D|Bread
+Illoo|Mysterious|C|Chinese Food
+Impass|Tough|A|Ramen
+Infour|Mysterious|B|Vegetables
+Insomni|Eerie|A|Candy
+Jibanyan|Charming|D|Seafood
+Sapphinyan|Charming|A|Seafood
+Emenyan|Charming|A|Seafood
+Rubinyan|Charming|A|Seafood
+Topanyan|Charming|A|Seafood
+Dianyan|Charming|A|Seafood
 Kapunki|Brave|A|Rice Ball
-Komajiro|Milk
-Komane|Milk
-Komasan|Milk
-Komashura|Milk
-Komiger|Milk
-Kyubi|Seafood
-Lafalotta|Hamburger
-Lamedian|Chinese Food
-Lava Lord|Rice Ball
-Leadoni|Candy
-Ledballoon|Milk
-Lodo|Milk
-Mad Mountain|Rice Ball
-Mama Aura|Vegetables
-Manjimutt|Chinese Food
+Komajiro|Charming|D|Milk
+Komane|Charming|A|Milk
+Komasan|Charming|D|Milk
+Komashura|Mysterious|S|Milk
+Komiger|Charming|A|Milk
+Kyubi|Mysterious|S|Seafood
+Lafalotta|Mysterious|D|Hamburger
+Lamedian|Eerie|A|Chinese Food
+Lava Lord|Tough|B|Rice Ball
+Leadoni|Shady|E|Candy
+Ledballoon|Tough|C|Milk
+Lodo|Heartful|D|Milk
+Mad Mountain|Tough|C|Rice Ball
+Mama Aura|Heartful|A|Vegetables
+Manjimutt|Eerie|E|Chinese Food
 Minochi|Brave|D|Rice Ball
-Mirapo|Chinese Food
-Mircle|Chinese Food
+Mirapo|Mysterious|C|Chinese Food
+Mircle|Mysterious|A|Chinese Food
 Mochismo|Brave|D|Rice Ball
-Moskevil|Juice
-Multimutt|Chinese Food
-Mynimo|Candy
-N'more|Hamburger
-Nagatha|Bread
-Negasus|Vegetables
-Negatibuzz|Juice
-Neighfarious|Vegetables
-Nird|Vegetables
-Noko|Hamburger
-Noway|Ramen
-Nul|Rice Ball
-Ol' Fortune|Milk
-Ol' Saint Trick|Milk
-Pandanoko|Hamburger
+Moskevil|Shady|C|Juice
+Multimutt|Eerie|B|Chinese Food
+Mynimo|Shady|D|Candy
+N'more|Mysterious|C|Hamburger
+Nagatha|Eerie|D|Bread
+Negasus|Shady|A|Vegetables
+Negatibuzz|Shady|E|Juice
+Neighfarious|Shady|A|Vegetables
+Nird|Shady|B|Vegetables
+Noko|Slippery|E|Hamburger
+Noway|Tough|E|Ramen
+Nul|Shady|A|Rice Ball
+Ol' Fortune|Heartful|B|Milk
+Ol' Saint Trick|Heartful|B|Milk
+Pandanoko|Slippery|A|Hamburger
 Pandle|Brave|E|Rice Ball
-Papa Bolt|Meat
-Payn|Candy
-Peckpocket|Hamburger
-Peppillon|Juice
-Pinkipoo|Hamburger
-Pookivil|Hamburger
-Pupsicle|Ramen
-Q'wit|Hamburger
+Papa Bolt|Heartful|A|Meat
+Payn|Shady|C|Candy
+Peckpocket|Eerie|E|Hamburger
+Peppillon|Heartful|S|Juice
+Pinkipoo|Charming|B|Hamburger
+Pookivil|Charming|A|Hamburger
+Pupsicle|Charming|E|Ramen
+Q'wit|Mysterious|C|Hamburger
 Quaken|Brave|B|Meat
-Rageon|Meat
-Rattelle|Hamburger
-Reuknight|Vegetables
-Reversa|Bread
-Reversette|Bread
-Rhinoggin|Vegetables
-Rhinormous|Vegetables
-Rhyth|Ramen
-Robonyan|Seafood
-Rockabelly|Hamburger
-Rollen|Candy
-Roughraff|Ramen
-Sandi|Candy
-Scritchy|Juice
-Shadow Venoct|Seafood
+Rageon|Slippery|B|Meat
+Rattelle|Charming|C|Hamburger
+Reuknight|Brave|A|Vegetables
+Reversa|Heartful|A|Bread
+Reversette|Heartful|A|Bread
+Rhinoggin|Tough|B|Vegetables
+Rhinormous|Tough|S|Vegetables
+Rhyth|Heartful|D|Ramen
+Robonyan|Tough|A|Seafood
+Rockabelly|Eerie|D|Hamburger
+Rollen|Heartful|B|Candy
+Roughraff|Tough|E|Ramen
+Sandi|Eerie|S|Candy
+Scritchy|Shady|A|Juice
+Shadow Venoct|Slippery|S|Seafood
 Sheen|Brave|A|Seafood
-Shmoopie|Hamburger
-Shogunyan|Seafood
-Shrook|Vegetables
-Signibble|Rice Ball
-Signiton|Rice Ball
-Singcada|Juice
-Sir Berus|Chinese Food
+Shmoopie|Charming|C|Hamburger
+Shogunyan|Brave|S|Seafood
+Shrook|Slippery|B|Vegetables
+Signibble|Mysterious|D|Rice Ball
+Signiton|Mysterious|A|Rice Ball
+Singcada|Charming|B|Juice
+Sir Berus|Eerie|A|Chinese Food
 Siro|Brave|A|Meat
-Skelebella|Hamburger
-Skranny|Ramen
-Skreek|Bread
+Skelebella|Charming|B|Hamburger
+Skranny|Mysterious|B|Ramen
+Skreek|Eerie|A|Bread
 Slacka-slash|Brave|B|Juice
-Slitheref|Seafood
-Slush|Juice
+Slitheref|Slippery|A|Seafood
+Slush|Eerie|E|Juice
 Snartle|Brave|S|Meat
 Snee|Brave|A|Seafood
-Snotsolong|Seafood
-Spenp|Bread
-Statiking|Rice Ball
-Steppa|Ramen
-Supyo|Vegetables
+Snotsolong|Mysterious|E|Seafood
+Spenp|Slippery|C|Bread
+Statiking|Mysterious|S|Rice Ball
+Steppa|Heartful|E|Ramen
+Supyo|Charming|A|Vegetables
 Sushiyama|Brave|B|Rice Ball
-Suspicioni|Chinese Food
-Swelterrier|Ramen
-Swosh|Vegetables
+Suspicioni|Shady|D|Chinese Food
+Swelterrier|Charming|S|Ramen
+Swosh|Tough|S|Vegetables
 Tanbo|Brave|B|Rice Ball
-Tantroni|Chinese Food
-Tattlecast|Ramen
-Tattletell|Ramen
-Tengloom|Vegetables
-Tengu|Candy
-Thornyan|Seafood
-Timidevil|Ramen
-Touphant|Rice Ball
-Tunatic|Meat
-Uncle Infinite|Meat
+Tantroni|Shady|D|Chinese Food
+Tattlecast|Mysterious|B|Ramen
+Tattletell|Mysterious|D|Ramen
+Tengloom|Shady|C|Vegetables
+Tengu|Mysterious|S|Candy
+Thornyan|Charming|B|Seafood
+Timidevil|Shady|A|Ramen
+Touphant|Tough|D|Rice Ball
+Tunatic|Slippery|A|Meat
+Uncle Infinite|Heartful|S|Meat
 Undy|Brave|C|Rice Ball
-Urnaconda|Meat
-Venoct|Seafood
-Walkappa|Vegetables
-Walldin|Ramen
-Wantston|Ramen
-Wazzat|Candy
-Whapir|Juice
-Wiglin|Ramen
+Urnaconda|Slippery|C|Meat
+Venoct|Slippery|S|Seafood
+Walkappa|Charming|D|Vegetables
+Walldin|Tough|A|Ramen
+Wantston|Heartful|E|Ramen
+Wazzat|Mysterious|E|Candy
+Whapir|Charming|C|Juice
+Wiglin|Heartful|E|Ramen
 Zerberker|Brave|A|Meat

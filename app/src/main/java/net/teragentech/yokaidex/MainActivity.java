@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Read in yokai.dat and populate yokai map with it
         // NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE /////
-        // New format, need to update NAME, CLASS, RANK, FOOD
+        // New format, need to update NAME, CLASS, RANK, ELEMENT, EVOLVES_FROM, FOOD
         // NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE ///// NOTE /////
         try {
             reader = yokaiIn.readLine();
